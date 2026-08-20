@@ -1,0 +1,49 @@
+
+
+SECTION 1: DASHBOARD, REPORTS AND DATA EXPORT
+To export monthly reports or account analytics as a CSV or Excel file, log in to your account and navigate to the 'Analytics & Reports' tab in the main sidebar. Select your desired date range using the calendar filter. Click on the 'Export Data' button located at the top right corner of the dashboard, select your preferred file format (CSV, XLSX, or PDF), and the download will start automatically.
+
+SECTION 2: BILLING, INVOICES AND PAYMENT ISSUES
+To update your billing address, tax ID, or primary credit card, go to 'Account Settings' -> 'Billing & Plans'. Under the 'Billing Details' card, click 'Edit' to update your street address, zip code, or company details, and click 'Save Changes'. 
+
+Past invoices can be viewed and downloaded in PDF format under the 'Invoice History' section at the bottom of the Billing page. 
+
+If you notice a duplicate charge on your credit card or if your subscription shows as inactive after a successful transaction, please verify your payment receipt. In cases of billing discrepancies or unexpected 500 errors during subscription renewal, our finance team issues automatic refunds or manual account activations within 24 hours of notification.
+
+SECTION 3: API KEYS AND THIRD-PARTY INTEGRATIONS
+Our platform natively supports integrations with third-party automation tools, including Zapier, Make (Integromat), and custom webhooks. 
+
+To generate or view your API keys, navigate to 'Account Settings' -> 'Developer Portal' -> 'API Keys'. Click 'Generate New Secret Key', assign a label, and copy the generated token immediately (it will only be shown once for security reasons). To integrate with Zapier, search for our official app in the Zapier App Directory and authenticate using your generated API key.
+
+SECTION 4: TECHNICAL TROUBLESHOOTING AND SYSTEM ERRORS
+If you encounter an HTTP 500 Internal Server Error, infinite loading screens, or login failures, follow these troubleshooting steps:
+1. Clear your browser cache and cookies, or open the application in an Incognito/Private window.
+2. Ensure your network firewall is not blocking WebSocket or HTTPS connections to our domain.
+3. Check our official Status Page for scheduled maintenance or server degradation updates.
+
+In the event of a platform outage or critical system failure preventing core operations, emergency protocols are triggered, and system engineers are automatically alerted to restore service immediately.
+
+
+
+РАЗДЕЛ 1: ПАНЕЛЬ УПРАВЛЕНИЯ, ОТЧЕТЫ И ЭКСПОРТ ДАННЫХ
+Для экспорта ежемесячных отчетов или аналитики аккаунта в формате CSV или Excel войдите в систему и перейдите во вкладку «Аналитика и отчеты» на боковой панели. Выберите нужный диапазон дат с помощью фильтра календаря. Нажмите кнопку «Экспорт данных» в правом верхнем углу панели управления, выберите предпочитаемый формат файла (CSV, XLSX или PDF), и скачивание начнется автоматически.
+
+РАЗДЕЛ 2: ОПЛАТА, СЧЕТА И ФИНАНСОВЫЕ ВОПРОСЫ
+Чтобы обновить платежный адрес, налоговый номер или основную банковскую карту, перейдите в «Настройки аккаунта» -> «Оплата и тарифы». В блоке «Платежные данные» нажмите «Редактировать», чтобы изменить адрес, почтовый индекс или реквизиты компании, а затем нажмите «Сохранить изменения».
+
+Прошлые счета можно просмотреть и скачать в формате PDF в разделе «История счетов» в нижней части страницы оплаты.
+
+Если вы заметили двойное списание средств с вашей карты или если статус подписки отображается как неактивный после успешной транзакции, пожалуйста, проверьте квитанцию об оплате. В случае обнаружения расхождений в оплате или непредвиденных ошибок 500 при продлении подписки, наша финансовая служба выполняет автоматический возврат средств или ручную активацию аккаунта в течение 24 часов после обращения.
+
+РАЗДЕЛ 3: API-КЛЮЧИ И СТОРОННИЕ ИНТЕГРАЦИИ
+Наша платформа поддерживает интеграцию со сторонними сервисами автоматизации, включая Zapier, Make (Integromat) и настраиваемые вебхуки (webhooks).
+
+Для создания или просмотра API-ключей перейдите в «Настройки аккаунта» -> «Портал разработчиков» -> «API-ключи». Нажмите «Создать новый секретный ключ», укажите название и сразу скопируйте сгенерированный токен (в целях безопасности он отображается только один раз). Для интеграции с Zapier найдите наше официальное приложение в каталоге Zapier App Directory и авторизуйтесь с помощью сгенерированного API-ключа.
+
+РАЗДЕЛ 4: ТЕХНИЧЕСКИЕ НЕПОЛАДКИ И СИСТЕМНЫЕ ОШИБКИ
+Если вы столкнулись с ошибкой HTTP 500 Internal Server Error, бесконечной загрузкой экрана или проблемами при входе в систему, выполните следующие шаги:
+1. Очистите кэш и cookie вашего браузера или откройте приложение в режиме инкогнито.
+2. Убедитесь, что сетевой брандмауэр (firewall) не блокирует HTTPS или WebSocket соединения с нашим доменов.
+3. Проверьте страницу статуса (Status Page) на наличие плановых технических работ или сбоев в работе серверов.
+
+В случае критической системной ошибки или сбоя платформы, препятствующего работе компании, автоматически запускаются аварийные протоколы, и инженеры получают уведомление для немедленного восстановления работы сервиса.

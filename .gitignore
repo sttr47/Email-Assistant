@@ -1,0 +1,8 @@
+.env
+venv/
+*.pth
+docstore.pkl
+qdrant_db/
+__pycache__/
+parent_docstore/
+.vscode
