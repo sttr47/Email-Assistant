@@ -12,9 +12,6 @@ from app.chunker import parent_splitter, child_splitter
 from app.local_store import PickleDocStore
 
 def clear_old_stores():
-    if os.path.exists("./qdrant_db"):
-        shutil.rmtree("./qdrant_db", ignore_errors=True)
-        print("qdrant_db cleaned")
     if os.path.exists("./docstore.pkl"):
         os.remove("./docstore.pkl")
         print("docstore.pkl cleaned")
