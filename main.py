@@ -11,8 +11,13 @@ from huggingface_hub import hf_hub_download
 from app.retriever import get_retriever
 from app.llm import get_llm
 from app.reranker import rerank
+from app.ingest import run_ingestion
 
 load_dotenv()
+if not os.path.exists("./docstore.pkl"):
+    print("Knowledge base not found, building it...")
+    run_ingestion()
+
 
 def format_docs(docs):
     return "\n\n".join([doc.page_content for doc in docs])
