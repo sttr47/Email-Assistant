@@ -2,7 +2,7 @@
 
 This app reads an email and tells you how urgent it is (Low, Medium or High).
 For Medium and High emails, it also writes a suggested reply based on a knowledge base.
-It works with English, Azerbaijani and Russian emails.
+It works with English and Russian emails.
 
 ## Try it online (easiest way)
 
